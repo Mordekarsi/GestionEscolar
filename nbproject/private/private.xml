@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/gui/ConsultarEEGUI.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/AcademicoDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/test/uv/fei/gestionescolar/bussinesslogic/AcademicoDAOTest.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/dataaccess/DataBaseConnection.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/domain/Academico.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/IAcademicoDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/UsuarioDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/test/uv/fei/gestionescolar/bussinesslogic/AlumnoDAOTest.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/gui/RegistrarAcademicoGUI.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/domain/Usuario.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/gui/InicioSesionGUI.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/IExperienciaEducativaDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/ExperienciaEducativaDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/test/uv/fei/gestionescolar/bussinesslogic/UsuarioDAOTest.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/validaciones/ValidacionDeDatosRegistro.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/domain/Alumno.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/IAlumnoDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/domain/ExperienciaEducativa.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/IUsuarioDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/bussinesslogic/AlumnoDAO.java</file>
+            <file>file:/D:/Tecnologías/GestionEscolar/src/uv/fei/gestionescolar/gui/RegistrarAlumnoGUI.java</file>
+        </group>
+    </open-files>
+</project-private>
